@@ -1,4 +1,4 @@
-# Neflix-Clone-Page
+# Netflix-Clone-Page
 
 Recreated the Netflix Homepage Design
 
